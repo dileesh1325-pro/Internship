@@ -1,0 +1,27 @@
+body{
+    font-family: Arial;
+    margin:0;
+}
+
+header{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav a{
+    color:white;
+    margin:10px;
+    text-decoration:#333;
+}
+
+section{
+    padding:30px;
+}
+
+.card{
+    background:lightgreen;
+    padding:15px;
+    margin:10px 0;
+}
